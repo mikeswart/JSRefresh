@@ -1,0 +1,14 @@
+{
+  "name": "learntsagain",
+  "version": "1.0.0",
+  "description": "I hate javascript",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-loader": "^1.3.3"
+  }
+}

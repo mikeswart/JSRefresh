@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/webpack": "^2.2.1",
     "ts-loader": "^1.3.3"
+  },
+  "devDependencies": {
+    "@types/webpack": "https://registry.npmjs.org/@types/webpack/-/webpack-2.2.1.tgz"
   }
 }
